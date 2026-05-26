@@ -4,3 +4,5 @@
 - Kamila (kamikaze-B) - member
 - Aito (blammie0) -- member 
 - Arstan (aanasbekov-ops) - Member
+
+- Имя: Umai | Роль: Developer
