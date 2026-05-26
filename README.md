@@ -2,6 +2,5 @@
 - Alisher (Akito140) - Leader
 - место умай
 - Kamila (kamikaze-B) - member
-- айто
-- арс
-Aito (blammie0) -- member 
+- Aito (blammie0) -- member 
+- Arstan (aanasbekov-ops) - Member
